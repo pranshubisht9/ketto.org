@@ -84,3 +84,7 @@ let enter = (e) => {
     main(q);
     }
 } 
+
+let home = () => {window.location.href="./index.html"}
+let signup = () => {window.location.href="./sign.html"}
+let signShow = () => {window.location.href="./signin.html"}
