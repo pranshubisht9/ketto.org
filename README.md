@@ -1,6 +1,6 @@
 # ketto.org (Clone)
 
-Project-1: make a clone of https://www.ketto.org/ site
+Project: Make a clone of https://www.ketto.org/ site
 
 In this colaboratory project we have tried to make a look alike clone of Ketto.org Website. With our efforts and the technology stack, that we have learned till now in Unit-2 in Masai School, we were able to clone the front end with similar looks and features.
 
