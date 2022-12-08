@@ -11,7 +11,7 @@ About: Ketto is an Online Crowdfunding Platform and Website in India for fundrai
 Clone the project
 
 ```bash
-  git clone https://github.com/imbickydutta/myntra_clone
+  git clone https://github.com/pranshubisht9/ketto.org.git
 ```
 
 ## Technologies we used
