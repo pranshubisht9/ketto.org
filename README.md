@@ -30,15 +30,15 @@ All the image and icon links have been taken from the main website ( https://www
 
 ## Team Members and Contributors :
 
-###fw20_0423 - Pranshu Singh Bisht
+### fw20_0423 - Pranshu Singh Bisht
 
-###fw19_0350 - Sofiyan Shaikh
+### fw19_0350 - Sofiyan Shaikh
 
-###fw20_0612 - Prabhat Poddar 
+### fw20_0612 - Prabhat Poddar 
 
-###fw20_0972 - Arun Kumar Rana
+### fw20_0972 - Arun Kumar Rana
 
-###fw19_0813 - Kartikey Mishra
+### fw19_0813 - Kartikey Mishra
 
 
 
